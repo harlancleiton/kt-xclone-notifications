@@ -1,10 +1,7 @@
 package com.twitterclone.notification
 
-import kotlinx.coroutines.delay
-import kotlinx.coroutines.runBlocking
-import kotlinx.coroutines.withTimeout
 import org.springframework.boot.autoconfigure.SpringBootApplication
-
+import org.springframework.boot.runApplication
 
 @SpringBootApplication
 class NotificationApplication
